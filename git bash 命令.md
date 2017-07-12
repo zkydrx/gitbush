@@ -138,8 +138,12 @@
 
     [create a remote repo on GitHub from the CLI without opening browser](https://github.com/zkydrx/gitbush/blob/master/create a remote repo on GitHub from the CLI without opening browser.md)
 
-
+    ​
 
 50. ![link.png](https://github.com/zkydrx/images/blob/master/think/link.png?raw=true)
 
     (将hithub的一个文件作为一个链接。https://github.com/zkydrx/gitbush/blob/master/fileName.md)
+
+    ​
+
+    ​
