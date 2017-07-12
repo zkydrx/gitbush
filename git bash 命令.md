@@ -136,6 +136,6 @@
 
     git push origin master(将本地主干推送到远程仓库)
 
-    [create a remote repo on GitHub from the CLI without opening browser]([gitbush](https://github.com/zkydrx/gitbush)/create a remote repo on GitHub from the CLI without opening browser.md)
+    [create a remote repo on GitHub from the CLI without opening browser]([gitbush](gitbush/create a remote repo on GitHub from the CLI without opening browser.md)
 
     ​
