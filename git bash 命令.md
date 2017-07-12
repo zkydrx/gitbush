@@ -16,6 +16,7 @@
   命令: git init(初始化版本仓库)
 2. git add test.txt(将文件添加到暂存区中)
 3. git commit -m 'test.txt 提交'(将文件提交到仓库)
+   - git commit -a -m 'add somethings'( 一条命令搞定git add -A 和git commit -m 'add')
 4. git status (用来查看是否有文件没有提交)
 5. git diff test.txt(查看文件的修改部分)
 6. git log(查看日志详情)
@@ -39,7 +40,6 @@
     - git checkout 命令加上 -b参数表示创建并切换，相当于如下两条命令
     - git branch dev
     - git checkout dev
-
 19. git branch (查看当前分支)
 20. git checkout master(切换分支)
 21. git merge dev(在master分支上合并dev分支内容)
@@ -51,7 +51,6 @@
 26. git stash apply(恢复工作现场)
     - git stach drop stach内容并不删除，你需要使用git stash drop 来删除stash
     - git stash pop (恢复的同时吧stash内容也删除了)
-
 27. git remote(查看远程库的信息)
 28. git remote -v (查看远程库的详细信息)
 29. git push origin dev(把分支推送到远程去)
