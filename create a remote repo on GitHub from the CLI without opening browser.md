@@ -21,5 +21,6 @@
 - git push origin master
 
   1. push to the origin remote (github) from the master local branch
+  2. ![](https://raw.githubusercontent.com/zkydrx/images/master/think/link.png)
 
   ​

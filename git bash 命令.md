@@ -50,8 +50,8 @@
 
 16. git push origin master(简化后的推送命令)
 
-17. git clone https://github.com/zkydrx/MyDemo(从github远程把文件克隆到本地)
-    - git clone git@github.com:zkydrx/MyDemo(另外的一种形式从github远程把文件克隆到本地)
+17. git clone https://github.com/zkydrx/MyDemo(从github远程把文件克隆到本地`这种方式不需要输入密码`)
+    - git clone git@github.com:zkydrx/MyDemo(另外的一种形式从github远程把文件克隆到本地`这种方式需要输入密码`)
 
 18. git checkout -b dev(创建并切换分支)
     - git checkout 命令加上 -b参数表示创建并切换，相当于如下两条命令
@@ -132,7 +132,7 @@
 
 49. curl  -u 'zkydrx:PASSWORD'  https://api.github.com/user/repos -d '{"name":"work"}'(在git bush上用命令创建github上的远程仓库。)
 
-    git remote add origin git@github.com:zkydrx/projectname.git(添加远程仓库)
+    git remote add origin git@github.com:zkydrx/projectname.git(添加远程仓库`这种方式每次都需要输入密码`而是用https://github.com/zkydrx/repositoryName.git则可以不用每次输入密码，省了不少时间。)
 
     git push origin master(将本地主干推送到远程仓库)
 
