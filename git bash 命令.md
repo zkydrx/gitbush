@@ -148,7 +148,7 @@
 
     ![](https://github.com/zkydrx/images/blob/master/think/h1.png?raw=true)![](https://raw.githubusercontent.com/zkydrx/images/master/think/heidisql.jpg)
 
-    两种方式插入图片，前提是吧图片提交到github对应的图片仓库中。
+    两种方式插入图片，前提是把图片提交到github对应的图片仓库中。
 
     ​
 
