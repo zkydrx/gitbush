@@ -45,6 +45,8 @@
     - git clean -fd使用git rm -rf删除空文件夹之后，本地哈市会有空的目录存在，这时候空目录已经是untracked状态了解决办法是再删除掉untracked状态的目录，使用git clean -fd 执行了该命令以后本地的空目录就没有了。
 
 14. git remote add origin https://github.com//zkydrx/MyDemo(把本地仓库的内容推送到GitHub仓库)
+    - git remote remove origin and git remote add origin https://github.com/zkydrx/MyDemo.git(先删除远程仓库在重新添加远程仓库)
+    - git remote set-url origin https://github.com/zkydrx/MyDemo.git (重新设定远程仓库)
 
 15. git push -u origin master(把本地仓库分支master内容推送到远程仓库上去 第一次推送加-u参数，git不但会把本地的master分支内容推送的远程新的master分支上去，还会把本地的master 分支和远程的master分支关联起来，在以后的推送或者拉取时就可以简化命令)
 
