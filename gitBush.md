@@ -160,3 +160,8 @@
 
     ​
 52. vi/vim fileName（进入vim 编辑模式，可以对已存在的文件进行编辑，同时也可新建文件并进行编辑。）
+53. 下载github远程代码的指定版本。
+    - git clone 下载源码
+    - git tag　列出所有版本号
+    - git checkout　+某版本号　
+
