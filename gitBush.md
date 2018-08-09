@@ -165,3 +165,6 @@
     - git tag　列出所有版本号
     - git checkout　+某版本号　
 
+54. git config --list
+    - git config --global --unset user.name（删除全局用户名，防止对多个仓库用默认用户名造成影响）
+    - git config --global -edit(编辑全局配置文件)
